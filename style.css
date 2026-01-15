@@ -1,9 +1,13 @@
-.container {
-    height: 30vh;
-    border: 2px solid #000;
+.my-container {
+  height: 30vh;
+  border: 2px solid black;
 }
 
-.col {
-    margin: 2px;
-    border: 2px solid #333;
+.my-col {
+  margin: 2px;
+  border: 2px solid black;
+}
+
+.my-container-2 {
+  height: 30vh;
 }
